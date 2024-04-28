@@ -1,3 +1,5 @@
+The dataset was retrieved from Kaggle by Amir Motefaker (2023): https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset
+
 A/B Testing and its meaning in (product) data analysis:
 
 Objectives of marketing campaign analysis are to support businssses understand how well the ads are working and how to optimise them. For this, A/B Testing is used in practice. This test is meaningful to understand e.g. users' product satisfaction, user engagement, etc. A/B Testing consists of randomised experiments, meaning two variants (A and B) are tested against each other. This includes statistical hypothesis testing (in the field of Statistics it is called "Independent samples t-test), to test which variant is working better. Goals of A/B Testing can be to boost sales, having a higher reach, approach new customers, etc. 
